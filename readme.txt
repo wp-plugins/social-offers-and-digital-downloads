@@ -1,4 +1,4 @@
-﻿=== Live Chat ===
+﻿=== Social Offers and Digital Downloads ===
 Contributors: Social Intents
 Tags: digital downloads, social offers, coupons, social coupons, popup, lightbox
 Requires at least: 3.6
