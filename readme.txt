@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Social Offers and Digital Downloads Lightbox to build your social followers and email lists.  Offer rewards for social actions.
+Build your Social Followers and Email Lists by offering coupons, PDF's, music, or files as rewards for social actions.
 
 == Changelog ==
 = 1.0.0 =
