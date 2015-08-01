@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Share to Download and Social Coupons
+Plugin Name: Content Lockers and Downloads
 Plugin URI: http://www.socialintents.com
 Description: Build your email list, likes and followers with social offers, coupons and digital downloads
 Version: 1.0.1
