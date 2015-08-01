@@ -1,9 +1,9 @@
-﻿=== Social Offers and Digital Downloads ===
+﻿=== Share to Download and Social Coupons ===
 Contributors: Social Intents
-Tags: digital downloads, social offers, coupons, social coupons, popup, lightbox
+Tags: sahre to download, coupons, action gate, digital documents, download, faceook share, twitter follow, social share, digital downloads, social offers, coupons, social coupons, popup, lightbox
 Requires at least: 3.6
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
