@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Share to Download and Social Coupons
+Plugin Name: Social Downloads and Social Coupons
 Plugin URI: http://www.socialintents.com
 Description: Build your email list, likes and followers with social offers, coupons and digital downloads
-Version: 1.0.1
+Version: 1.0.2
 Author: Social Intents
 Author URI: http://www.socialintents.com/
 */

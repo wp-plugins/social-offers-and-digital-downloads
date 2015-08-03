@@ -1,15 +1,19 @@
-﻿=== Share to Download and Social Coupons ===
+﻿=== Content Lockers and Downloads ===
 Contributors: Social Intents
-Tags: sahre to download, coupons, action gate, digital documents, download, faceook share, twitter follow, social share, digital downloads, social offers, coupons, social coupons, popup, lightbox
+Tags: downloads, sahare to download, content locker, facebook like, google plus, like to unlock, pay with a like, pay with a tweet, share button, social media popup, social media sharing, subscribe,
+tweeting, viral plugin, viral traffic, coupons, action gate, digital documents, download, faceook share, twitter follow, social share, digital downloads, social offers, coupons, social coupons, popup, lightbox
 Requires at least: 3.6
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Build your Social Followers and Email Lists by offering coupons, PDF's, music, or files as rewards for social actions.
+Build your Social Followers and Email Lists asking for a tweet, like, or plus one to download your digital content.
 
 == Changelog ==
+= 1.0.2 =
+* Bug fixes
+
 = 1.0.0 =
 * Initial Release
 
