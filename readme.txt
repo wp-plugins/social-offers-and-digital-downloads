@@ -1,6 +1,6 @@
 ﻿=== Social Downloads and Social Coupons ===
 Contributors: Social Intents
-Tags: download, sahare to download, content locker, facebook like, google plus, like to unlock, pay with a like, pay with a tweet, share button, social media popup, social media sharing, subscribe,
+Tags: download, coupon, facebook like, google plus, like to unlock, pay with a like, pay with a tweet, share button, social media popup, social media sharing, subscribe,
 tweeting, viral plugin, viral traffic, coupons, action gate, digital documents, download, faceook share, twitter follow, social share, digital downloads, social offers, coupons, social coupons, popup, lightbox
 Requires at least: 3.6
 Tested up to: 4.2.2
